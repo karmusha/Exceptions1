@@ -1,0 +1,9 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml\
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+.vs/phonebook/v17/.suo

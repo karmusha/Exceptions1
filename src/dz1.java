@@ -37,7 +37,7 @@ public class dz1 {
     }
 
     // Посмотрите на код, и подумайте сколько разных типов исключений вы тут сможете получить?
-    // Добавила в код виды ошибок: NumberFormatException и ArrayIndexOutOfBoundsException)
+    // Добавила в код виды ошибок: NumberFormatException и ArrayIndexOutOfBoundsException
 
     public static int sum2d(String[][] arr){
         int sum = 0;
@@ -137,6 +137,5 @@ public class dz1 {
 
             System.out.printf("Частное двух массивов %s и %s равна %s\n", ArrayToString(array1), ArrayToString(array2), ArrayToString(res4));
         }
-        
     }
 }
